@@ -1,4 +1,4 @@
-# Titanic_project
+# Titanic Project
 
 <p> 1. Use Logistic Regression, Decision Tree, Random Forest, SGD, and SVM for classification of the dataset. </p>
 
